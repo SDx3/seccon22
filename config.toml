@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
      { file-pdf-solid = { href = "./presentation.pdf", text = "The slides (PDF)" }},
-     { file-pdf-solid = { href = "./sources", text = "Sources and more info (PDF)" }},
+     { file-pdf-solid = { href = "./sources.pdf", text = "Sources and more info (PDF)" }},
      { link = { href = "https://www.fox-it.com/nl-en/fox-crypto/", text = "More about Fox Crypto" }},
      { link = { href = "https://nccgroup.wd3.myworkdayjobs.com/NCC_Group/", text = "Jobs at Fox-IT and Fox Crypto" }},
      { linkedin = "https://linkedin.com/in/sanderdorigo" },
