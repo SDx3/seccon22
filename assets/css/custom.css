@@ -1,0 +1,12 @@
+.link-file-pdf-solid {
+    /* */
+    color: white;
+}
+
+.link-link {
+    background: rgb(37, 45, 125);
+}
+
+.link-file-pdf-solid svg {
+    filter: invert(100%)
+}

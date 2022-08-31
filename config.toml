@@ -1,0 +1,25 @@
+baseURL = 'https://seccon22.sanderdorigo.nl/'
+languageCode = "en"
+defaultContentLanguage = "en"
+title = 'Quantum Hurdles'
+theme = "lynx"
+
+copyright = "(c) Sander Dorigo"
+
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Quantum Hurdles"
+  headline = "Resources and background information related to Sander Dorigo's talk at SECCON 22"
+  # image = "img/author.jpg"
+
+  links = [
+     { file-pdf-solid = { href = "./presentation.pdf", text = "The slides (PDF)" }},
+     { file-pdf-solid = { href = "./sources", text = "Sources and more info (PDF)" }},
+     { link = { href = "https://www.fox-it.com/nl-en/fox-crypto/", text = "More about Fox Crypto" }},
+     { link = { href = "https://nccgroup.wd3.myworkdayjobs.com/NCC_Group/", text = "Jobs at Fox-IT and Fox Crypto" }},
+     { linkedin = "https://linkedin.com/in/sanderdorigo" },
+     { twitter = "https://twitter.com/sanderdorigo" },
+]
